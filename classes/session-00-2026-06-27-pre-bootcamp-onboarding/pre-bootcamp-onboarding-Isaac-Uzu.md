@@ -1,61 +1,57 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Isaac Uzu
 
 ---
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
--
--
--
+* The importance of punctuality and professionalism during training.
+* How to create and set up a GitHub account.
+* How to collaborate with others using GitHub.
+* How to create and manage a GitHub repository.
+* How to fork an existing repository.
+* How to download files from a GitHub repository.
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+### What I Did
 
-### What I did
+During the hands-on session, I completed the following tasks:
 
+1. Logged in to my existing GitHub account.
+2. Forked the **Microsoft Naija Security User Group GitHub Onboarding Workshop** repository.
+3. Downloaded the pre-bootcamp onboarding template.
+4. Edited the pre-bootcamp onboarding template by replacing the placeholder information with my own details.
+5. Uploaded the edited onboarding template to my forked GitHub repository.
+6. Made additional edits to the uploaded file and committed the changes successfully.
 
-### What happened / Result
+### Result
 
+All the assigned tasks were completed successfully. I was able to fork a repository, edit files, upload changes, and understand the basic GitHub workflow used for collaboration.
 
-### Challenges I faced
+### Challenges I Faced
 
+I did not encounter any major challenges during the lab. The instructor provided clear explanations and practical demonstrations, which made it easy to follow each step and complete the exercise successfully.
 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
-
+This session gave me practical experience using GitHub for version control and collaboration. I learned how to create and manage repositories, fork existing repositories, edit files, and contribute changes. These are essential skills for collaborating on software development and cloud projects.
 
 ---
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
+* How do GitHub branches improve collaboration in real-world projects?
+* What is the difference between a **Fork**, and a **Pull Request**?
 
 ---
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+* The Microsoft Naija Security User Group GitHub Onboarding Workshop materials
 
--
 
----
-
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Isaac Uzu · uzuisaac
